@@ -3,6 +3,7 @@
     <h1>New user Register for DevOps Learning</h1>
     <h1>Welcome to ionidea Devops world</h1>
     <h1>welcome</h1>
+    <h1>Happy Navratri</h1>
     
     
 
