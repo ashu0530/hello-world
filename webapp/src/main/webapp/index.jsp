@@ -2,8 +2,8 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <h1>Welcome to ionidea Devops world</h1>
-    <h1>hello world</h1>
-    <h3>all the best god bless you</h3>
+    <h1>hello world </h1>
+    
 
     <p>Please fill in this form to create an account.</p>
     <hr>
