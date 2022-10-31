@@ -6,7 +6,6 @@
     <h1>Happy Navratri to all of you </h1>
     <h1>happy dusherra</h1>
     <h1>Happy Diwali</h1>
-    <h1>god bless u all</h1>
     
     
 
