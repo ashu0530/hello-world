@@ -7,6 +7,7 @@
     <h1>happy dusherra</h1>
     <h1>Happy Diwali</h1>
     <h1>God bless you</h1>
+    <h1> happy new year </h1>
     <h1>Hwllo</h1>
 
     
